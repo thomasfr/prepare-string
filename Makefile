@@ -8,4 +8,5 @@ deploy:
 
 update:
 	@echo "Updating"
+	npm link
 	npm install
