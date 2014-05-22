@@ -4,7 +4,7 @@ test:
 
 deploy:
 	@echo "Pushing to production"
-	@git push git@git.eversport.at:~/prepare-string
+	git push git@git.eversport.at:~/prepare-string
 
 update:
 	@echo "Updating"
