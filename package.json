@@ -1,0 +1,19 @@
+{
+  "name": "prepare-string",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Prepares a given string. Will replace umlauts to ascii ae, ue, oe, sz. Replaces Whitespace to _ and removes all other characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.eversport.at:~/prepare-string"
+  },
+  "author": "Thomas Fritz <fritztho@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.7.1"
+  }
+}
