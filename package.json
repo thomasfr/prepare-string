@@ -7,13 +7,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@git.eversport.at:~/prepare-string"
-  },
   "author": "Thomas Fritz <fritztho@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "coffee-script": "^1.7.1"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eversport/prepare-string.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eversport/prepare-string/issues"
+  },
+  "homepage": "https://github.com/eversport/prepare-string"
 }
