@@ -1,5 +1,5 @@
 {
-  "name": "prepare-string",
+  "name": "@eversports/prepare-string",
   "version": "1.0.0",
   "description": "Prepares a given string. Will replace umlauts to ascii ae, ue, oe, sz. Replaces Whitespace to _ and removes all other characters",
   "main": "index.js",
